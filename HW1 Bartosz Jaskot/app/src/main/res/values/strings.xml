@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HW1</string>
+    <string name="dialog_confirm">Delete</string>
+    <string name="dialog_cancel">Back</string>
+    <string name="delete_question">Are you sure?</string>
+    <string name="save">Save</string>
+    <string name="hello_blank_fragment">Hello</string>
+    <string name="prefs">prefs</string>
+    <string name="text">text</string>
+    <string name="json">json</string>
+
+</resources>
